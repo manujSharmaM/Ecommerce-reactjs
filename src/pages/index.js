@@ -4,7 +4,7 @@ import {graphql} from 'gatsby'
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import HeroSection from '../components/Reuseable/HeroSection'
-import InfoBlock from '../components/Reuseable/InfoBlock'
+import InfoBlock from '../components/Reuseable/infoblock'
 import DualInfoBlock from '../components/Reuseable/DualInfoBlock'
 import Coursecart from "../components/Cart/Coursecart"
 
