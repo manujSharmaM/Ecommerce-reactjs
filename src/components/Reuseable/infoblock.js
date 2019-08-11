@@ -3,7 +3,7 @@ import Heading from "./Heading"
 import {Link} from 'gatsby'
 
 
-export default function Infoblock({heading}) {
+export default function InfoBlock({heading}) {
     return (
         <section className="bg-theme my-5 py-4">
           <div className="container">
