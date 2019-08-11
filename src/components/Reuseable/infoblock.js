@@ -2,7 +2,11 @@ import React from 'react'
 import Heading from "./Heading"
 import {Link} from 'gatsby'
 
+<<<<<<< HEAD
 export default function infoblock({heading}) {
+=======
+export default function InfoBlock({heading}) {
+>>>>>>> fedd1af8eacc981803b5c2afd6f821216aa6544e
     return (
         <section className="bg-theme my-5 py-4">
           <div className="container">
