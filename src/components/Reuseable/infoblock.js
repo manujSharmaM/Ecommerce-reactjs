@@ -2,7 +2,6 @@ import React from 'react'
 import Heading from "./Heading"
 import {Link} from 'gatsby'
 
-
 export default function InfoBlock({heading}) {
     return (
         <section className="bg-theme my-5 py-4">
